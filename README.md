@@ -1,5 +1,5 @@
 # Hands-on Lab: Build a Chatbot with Amazon Lex V2 and AWS Lambda
-##[Slide:](https://drive.google.com/file/d/1yzpVHKieUcfWbokH5tZ9gAKnYiz6dsEK/view?usp=sharing  )
+[##Slide:](https://drive.google.com/file/d/1yzpVHKieUcfWbokH5tZ9gAKnYiz6dsEK/view?usp=sharing  )
 [<img src="amazon_chatbot.png">](https://drive.google.com/file/d/1yzpVHKieUcfWbokH5tZ9gAKnYiz6dsEK/view?usp=sharing)
 
 This section of the workshop is dedicated to guiding you through the process of building your chatbot using Amazon Lex V2 and AWS Lambda. By the end of this lab, you will have a functional chatbot capable of understanding and responding to specific user inputs.
